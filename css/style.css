@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+.header {
+    background-color: #f28e36;
+    padding: 90px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 84px;
+    font-family: 'italic';
+    color: rgb(234, 223, 180);
+    border-color: rgb(155, 176, 193);
+    text-shadow: 
+        1px 1px 0 rgb(155, 176, 193), /* Right and down */
+        -1px -1px 0 rgb(155, 176, 193), /* Left and up */
+        1px -1px 0 rgb(155, 176, 193), /* Right and up */
+        -1px 1px 0 rgb(155, 176, 193); /* Left and down */
+
+}
+
+.header p {
+    margin: 10px 0;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.nav {
+    margin-top: 20px;
+    margin-left: 575px;
+    
+}
+
+.nav button {
+    background-color: #6d9ca9;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+    float: inline-start;
+    padding-right: 20px;
+}
+
+.content {
+    background-color: rgb(234, 223, 180); ;
+    padding: 20px;
+}
+
+.content img {
+    width: 70%;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.update-log {
+    background-color: #95a8b8;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.update-log h2 {
+    margin: 0;
+    font-size: 36px;
+}
+
+.update-log p {     
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.Certificate {
+    color: #6d9ca9;
+    font-size: 50px;
+    font-family: 'Arial';
+    border-color: ;
+    text-shadow: #f28e36
+        1px 1px 0  #f28e36 /* Right and down */
+        -1px -1px 0 , #f28e36/* Left and up */
+        1px -1px 0 #f28e36 /* Right and up */
+        -1px 1px 0 #f28e36 /* Left and down */
+    
+}
+
+ol {
+text-align: left;
+} 
+
+
+
+
+
+
